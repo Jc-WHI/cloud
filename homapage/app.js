@@ -9,19 +9,20 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>알고리즘 소개</title>
+      <title>홈페이지 소개 </title>
       <link rel="stylesheet" href="/style.css">
     </head>
     <body>
       <h1>알고리즘 소개</h1>
-      <p>저의 알고리즘 소개 홈페이지에 오신 것을 환영합니다.</p>
+      <p>조치호의  알고리즘 소개 홈페이지에 오신 것을 환영합니다.</p>
       <h2>주요 알고리즘</h2>
       <ul>
         <li><a href="/sorting">정렬 알고리즘</a></li>
         <li><a href="/searching">검색 알고리즘</a></li>
         <li><a href="/graph">그래프 알고리즘</a></li>
       </ul>
-      <p>더 많은 알고리즘은 계속 추가될 예정입니다.</p>
+      <p>본 사이트는 GCP, nginx , express.js를 통해 만들어졌습니다.</p>
+<p>현재git을 통한 개발환경 구축중이고, react를 사용해 깔끔한 사이트를 만들 예정입니다. </p>
     </body>
     </html>
   `);

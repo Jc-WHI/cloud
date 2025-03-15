@@ -231,3 +231,13 @@ pm2 list
 sudo systemctl status nginx
 sudo systemctl start nginx 
 pm2 status
+git config --global user.name "Jc-WHI"
+git config --global user.email "gh30212@naver.com"
+ssh-keygen -t rsa -b 4096 -C "gh30212@naver.com"
+nano ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+git init
+git add .
+git commit -m "Initial Commit"
+git remote add origin git@github.com:Jc-WHI/cloud.git
+git push -u origin master
