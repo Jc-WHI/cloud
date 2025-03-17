@@ -1464,3 +1464,361 @@
 2025-03-15T09:10:19: PM2 log: pid=63262 msg=process killed
 2025-03-15T09:10:19: PM2 log: App [app:0] starting in -fork mode-
 2025-03-15T09:10:19: PM2 log: App [app:0] online
+2025-03-15T18:55:13: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-03-15T18:55:13: PM2 log: [PM2] Upgrade to version 6.0.5
+2025-03-16T18:55:12: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-03-16T18:55:13: PM2 log: [PM2] Upgrade to version 6.0.5
+2025-03-17T15:40:47: PM2 log: Stopping app:app id:0
+2025-03-17T15:40:47: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2025-03-17T15:40:47: PM2 log: pid=63419 msg=process killed
+2025-03-17T15:40:47: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:47: PM2 log: App [app:0] online
+2025-03-17T15:40:48: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:48: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:48: PM2 log: App [app:0] online
+2025-03-17T15:40:49: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:49: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:49: PM2 log: App [app:0] online
+2025-03-17T15:40:49: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:49: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:49: PM2 log: App [app:0] online
+2025-03-17T15:40:50: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:50: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:50: PM2 log: App [app:0] online
+2025-03-17T15:40:50: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:50: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:50: PM2 log: App [app:0] online
+2025-03-17T15:40:50: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:50: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:50: PM2 log: App [app:0] online
+2025-03-17T15:40:51: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:51: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:51: PM2 log: App [app:0] online
+2025-03-17T15:40:51: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:51: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:51: PM2 log: App [app:0] online
+2025-03-17T15:40:52: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:52: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:52: PM2 log: App [app:0] online
+2025-03-17T15:40:52: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:52: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:52: PM2 log: App [app:0] online
+2025-03-17T15:40:53: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:53: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:53: PM2 log: App [app:0] online
+2025-03-17T15:40:53: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:53: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:53: PM2 log: App [app:0] online
+2025-03-17T15:40:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:54: PM2 log: App [app:0] online
+2025-03-17T15:40:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:54: PM2 log: App [app:0] online
+2025-03-17T15:40:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:40:54: PM2 log: App [app:0] online
+2025-03-17T15:40:55: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:40:55: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T15:42:32: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:32: PM2 log: App [app:0] online
+2025-03-17T15:42:33: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:33: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:33: PM2 log: App [app:0] online
+2025-03-17T15:42:33: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:33: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:33: PM2 log: App [app:0] online
+2025-03-17T15:42:34: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:34: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:34: PM2 log: App [app:0] online
+2025-03-17T15:42:34: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:34: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:34: PM2 log: App [app:0] online
+2025-03-17T15:42:35: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:35: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:35: PM2 log: App [app:0] online
+2025-03-17T15:42:35: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:35: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:35: PM2 log: App [app:0] online
+2025-03-17T15:42:36: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:36: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:36: PM2 log: App [app:0] online
+2025-03-17T15:42:36: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:36: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:36: PM2 log: App [app:0] online
+2025-03-17T15:42:37: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:37: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:37: PM2 log: App [app:0] online
+2025-03-17T15:42:37: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:37: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:37: PM2 log: App [app:0] online
+2025-03-17T15:42:37: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:37: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:37: PM2 log: App [app:0] online
+2025-03-17T15:42:38: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:38: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:38: PM2 log: App [app:0] online
+2025-03-17T15:42:38: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:38: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:38: PM2 log: App [app:0] online
+2025-03-17T15:42:39: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:39: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:39: PM2 log: App [app:0] online
+2025-03-17T15:42:39: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:39: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T15:42:39: PM2 log: App [app:0] online
+2025-03-17T15:42:40: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T15:42:40: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T16:00:25: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:25: PM2 log: App [app:0] online
+2025-03-17T16:00:26: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:26: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:26: PM2 log: App [app:0] online
+2025-03-17T16:00:27: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:27: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:27: PM2 log: App [app:0] online
+2025-03-17T16:00:27: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:27: PM2 error: Cancelling versioning data parsing
+2025-03-17T16:00:27: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:27: PM2 log: App [app:0] online
+2025-03-17T16:00:28: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:28: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:28: PM2 log: App [app:0] online
+2025-03-17T16:00:28: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:28: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:28: PM2 log: App [app:0] online
+2025-03-17T16:00:29: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:29: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:29: PM2 log: App [app:0] online
+2025-03-17T16:00:29: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:29: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:29: PM2 log: App [app:0] online
+2025-03-17T16:00:30: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:30: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:30: PM2 log: App [app:0] online
+2025-03-17T16:00:30: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:30: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:30: PM2 log: App [app:0] online
+2025-03-17T16:00:31: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:31: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:31: PM2 log: App [app:0] online
+2025-03-17T16:00:31: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:31: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:31: PM2 log: App [app:0] online
+2025-03-17T16:00:32: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:32: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:32: PM2 log: App [app:0] online
+2025-03-17T16:00:32: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:32: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:32: PM2 log: App [app:0] online
+2025-03-17T16:00:33: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:33: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:33: PM2 log: App [app:0] online
+2025-03-17T16:00:33: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:33: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:00:33: PM2 log: App [app:0] online
+2025-03-17T16:00:33: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:00:33: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T16:05:52: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:52: PM2 log: App [app:0] online
+2025-03-17T16:05:52: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:52: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:52: PM2 log: App [app:0] online
+2025-03-17T16:05:53: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:53: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:53: PM2 log: App [app:0] online
+2025-03-17T16:05:53: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:53: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:53: PM2 log: App [app:0] online
+2025-03-17T16:05:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:54: PM2 log: App [app:0] online
+2025-03-17T16:05:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:54: PM2 log: App [app:0] online
+2025-03-17T16:05:55: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:55: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:55: PM2 log: App [app:0] online
+2025-03-17T16:05:55: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:55: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:55: PM2 log: App [app:0] online
+2025-03-17T16:05:55: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:55: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:55: PM2 log: App [app:0] online
+2025-03-17T16:05:56: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:56: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:56: PM2 log: App [app:0] online
+2025-03-17T16:05:56: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:56: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:56: PM2 log: App [app:0] online
+2025-03-17T16:05:57: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:57: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:57: PM2 log: App [app:0] online
+2025-03-17T16:05:57: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:57: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:57: PM2 log: App [app:0] online
+2025-03-17T16:05:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:58: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:58: PM2 log: App [app:0] online
+2025-03-17T16:05:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:58: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:58: PM2 log: App [app:0] online
+2025-03-17T16:05:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:58: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:05:58: PM2 log: App [app:0] online
+2025-03-17T16:05:59: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:05:59: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T16:06:39: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:39: PM2 log: App [app:0] online
+2025-03-17T16:06:40: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:40: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:40: PM2 log: App [app:0] online
+2025-03-17T16:06:40: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:40: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:40: PM2 log: App [app:0] online
+2025-03-17T16:06:40: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:40: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:40: PM2 log: App [app:0] online
+2025-03-17T16:06:41: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:41: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:41: PM2 log: App [app:0] online
+2025-03-17T16:06:41: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:41: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:41: PM2 log: App [app:0] online
+2025-03-17T16:06:42: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:42: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:42: PM2 log: App [app:0] online
+2025-03-17T16:06:42: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:42: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:42: PM2 log: App [app:0] online
+2025-03-17T16:06:43: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:43: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:43: PM2 log: App [app:0] online
+2025-03-17T16:06:43: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:43: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:43: PM2 log: App [app:0] online
+2025-03-17T16:06:44: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:44: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:44: PM2 log: App [app:0] online
+2025-03-17T16:06:44: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:44: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:44: PM2 log: App [app:0] online
+2025-03-17T16:06:44: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:44: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:44: PM2 log: App [app:0] online
+2025-03-17T16:06:45: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:45: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:45: PM2 log: App [app:0] online
+2025-03-17T16:06:45: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:45: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:45: PM2 log: App [app:0] online
+2025-03-17T16:06:46: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:46: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:06:46: PM2 log: App [app:0] online
+2025-03-17T16:06:46: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:06:46: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T16:07:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:54: PM2 log: App [app:0] online
+2025-03-17T16:07:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:54: PM2 log: App [app:0] online
+2025-03-17T16:07:54: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:54: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:54: PM2 log: App [app:0] online
+2025-03-17T16:07:55: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:55: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:55: PM2 log: App [app:0] online
+2025-03-17T16:07:55: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:55: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:55: PM2 log: App [app:0] online
+2025-03-17T16:07:56: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:56: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:56: PM2 log: App [app:0] online
+2025-03-17T16:07:56: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:56: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:56: PM2 log: App [app:0] online
+2025-03-17T16:07:56: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:56: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:56: PM2 log: App [app:0] online
+2025-03-17T16:07:57: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:57: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:57: PM2 log: App [app:0] online
+2025-03-17T16:07:57: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:57: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:57: PM2 log: App [app:0] online
+2025-03-17T16:07:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:58: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:58: PM2 log: App [app:0] online
+2025-03-17T16:07:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:58: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:58: PM2 log: App [app:0] online
+2025-03-17T16:07:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:58: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:58: PM2 log: App [app:0] online
+2025-03-17T16:07:59: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:59: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:59: PM2 log: App [app:0] online
+2025-03-17T16:07:59: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:07:59: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:07:59: PM2 log: App [app:0] online
+2025-03-17T16:08:00: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:08:00: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:08:00: PM2 log: App [app:0] online
+2025-03-17T16:08:00: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:08:00: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T16:09:14: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:14: PM2 log: App [app:0] online
+2025-03-17T16:09:15: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:15: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:15: PM2 log: App [app:0] online
+2025-03-17T16:09:15: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:15: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:15: PM2 log: App [app:0] online
+2025-03-17T16:09:15: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:15: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:15: PM2 log: App [app:0] online
+2025-03-17T16:09:16: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:16: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:16: PM2 log: App [app:0] online
+2025-03-17T16:09:16: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:16: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:16: PM2 log: App [app:0] online
+2025-03-17T16:09:17: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:17: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:17: PM2 log: App [app:0] online
+2025-03-17T16:09:17: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:17: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:17: PM2 log: App [app:0] online
+2025-03-17T16:09:17: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:17: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:17: PM2 log: App [app:0] online
+2025-03-17T16:09:18: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:18: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:18: PM2 log: App [app:0] online
+2025-03-17T16:09:18: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:18: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:18: PM2 log: App [app:0] online
+2025-03-17T16:09:19: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:19: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:19: PM2 log: App [app:0] online
+2025-03-17T16:09:19: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:19: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:19: PM2 log: App [app:0] online
+2025-03-17T16:09:20: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:20: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:20: PM2 log: App [app:0] online
+2025-03-17T16:09:20: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:20: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:20: PM2 log: App [app:0] online
+2025-03-17T16:09:21: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:21: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:09:21: PM2 log: App [app:0] online
+2025-03-17T16:09:21: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2025-03-17T16:09:21: PM2 log: Script /home/gh30212/homapage/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-03-17T16:14:52: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:14:52: PM2 log: App [app:0] online
+2025-03-17T16:18:48: PM2 log: Stopping app:app id:0
+2025-03-17T16:18:48: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2025-03-17T16:18:48: PM2 log: pid=324810 msg=process killed
+2025-03-17T16:18:48: PM2 log: App [app:0] starting in -fork mode-
+2025-03-17T16:18:48: PM2 log: App [app:0] online

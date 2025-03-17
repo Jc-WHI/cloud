@@ -241,3 +241,15 @@ git add .
 git commit -m "Initial Commit"
 git remote add origin git@github.com:Jc-WHI/cloud.git
 git push -u origin master
+cd homapage
+ls
+nano app.js
+pm2 restart app
+pm2 status
+nano app.js
+pm2 restart app
+cd
+git add .
+git commit -m "gcp에서 커밋함"
+git add .
+git push origin master
